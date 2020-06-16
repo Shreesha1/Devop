@@ -1,2 +1,8 @@
 # Devop
-Learning Devops
+
+
+
+
+
+this is a devops respositorY
+Learning DevOps
